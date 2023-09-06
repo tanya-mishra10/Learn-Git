@@ -1,4 +1,4 @@
 # Learn-Git
 this is my first git repository
 <br>
-Author - Tanya Mishra
+Author - Tanya Mishra(hello)
